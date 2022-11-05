@@ -1,0 +1,17 @@
+h1{
+    padding: 20px;
+    border: 2px solid red;
+    border-radius: 25px;
+    margin: 20px;
+}
+#forgot{
+    height: 150vh;
+    text-align: center;
+    background-color: aqua;
+    background-image: url(../Image/sky.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}

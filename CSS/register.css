@@ -1,0 +1,15 @@
+h1{
+    padding: 20px;
+    border: 2px solid red;
+    border-radius: 25px;
+    margin: 20px;
+}
+#register{
+    height: 150vh;
+    text-align: center;
+    background-color: aqua;
+    background: aqua url(../Image/tree.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
